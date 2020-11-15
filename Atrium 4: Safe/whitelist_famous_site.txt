@@ -63,3 +63,16 @@ googleadservices.com
 accuweather.com
 googleweblight.com
 answers.yahoo.com
+web.whatsapp.com
+web.telegram.org
+telegram.org
+iflix.com
+tv.youtube.com
+support.discord.com
+discordstatus.com
+gitlab.com
+about.gitlab.com
+nvidia.com
+apple.com
+tokopedia.com
+shopee.com
