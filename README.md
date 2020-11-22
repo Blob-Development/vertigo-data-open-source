@@ -6,11 +6,11 @@ This project currently managed by **ray#1337** and [**H29id#4352**](https://h29i
 [The Unlicense](https://unlicense.org/)
 
 # Source
-• UT1 ([Universite Toulouse 1 Capitole](http://www.ut-capitole.fr/)) <br>
-• [urlblacklist.com](http://urlblacklist.com/) <br>
-• The Block List Project ([T.B.L.P](https://blocklist.site/)) <br>
+• UT1 ([Universite Toulouse 1 Capitole](http://www.ut-capitole.fr)) <br>
+• [urlblacklist.com](http://urlblacklist.com) <br>
+• The Block List Project ([T.B.L.P](https://blocklist.site)) <br>
 • ConversationAI ([Moderator](https://github.com/conversationai/conversationai-moderator)) <br>
-• Vertigo-training ([Blob Project Discord Server](https://discord.blob-project.com))
+• Discord Server ([Blob Project Discord Server](https://blob-project.com/discord))
 
 # Contributors
 <table>
