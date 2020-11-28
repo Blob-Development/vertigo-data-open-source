@@ -24,4 +24,4 @@ This project currently managed by **ray#1337** and [**H29id#4352**](https://h29i
 </table>
 
 # Awesome human in the earth!
-Special thank you to [Newton](https://github.com/Newtonzz) and [Arc](https://arc.io) for the donation to cover up the project bill.
+Special thank you to [Newton](https://github.com/Newtonzz) for the donation to cover up the project bill.
